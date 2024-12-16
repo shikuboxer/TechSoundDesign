@@ -1,5 +1,6 @@
 using UnityEngine;
 using static Amb_EventTrigger;
+[RequireComponent(typeof(BoxCollider))]
 
 public class Amb_ZoneOuter : MonoBehaviour
 {
