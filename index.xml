@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="bwolland scripts"/>
+<index version="1" name="bwolland scripts" commit="6c148c6323ac568a06b93b7d4a64ddca282a8617">
+  <category name="ReaperScriptRepo/scripts">
+    <reapack name="BW_BatchAutoRegion.lua" type="script" desc="This scripts job is to generate regions around selected items">
+      <version name="1.0.0" author="Ben Wolland" time="2025-05-19T12:34:01Z">
+        <source main="main">https://github.com/shikuboxer/TechSoundDesign/raw/6c148c6323ac568a06b93b7d4a64ddca282a8617/ReaperScriptRepo/scripts/BW_BatchAutoRegion.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
